@@ -1,0 +1,7 @@
+/home/all/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6494.38/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/all/CLionProjects/laba1
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.16 or higher is required.  You are running version 3.15.3
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/all/CLionProjects/laba1/cmake-build-debug/CMakeFiles/CMakeOutput.log".
